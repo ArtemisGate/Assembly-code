@@ -1,7 +1,7 @@
-# password_gen_javafx_Gui
-# Password Generator
-A password Generator created using java API libraries that generates passwords with one lowercase, one uppercase, and special character(s)
-Build with Javafx inteface
+# Assembly Code x86 intel syntax
+# COSC Project Code from 2023 Fall
+Backup of code that I made for COSC class project
+
 ## Getting Started
 No special requirements beside java runtime
 
